@@ -25,14 +25,14 @@ export default class Main extends Component {
                 >
                     <YoutubeTab />
                 </Tab>
-
+                {/*
                 <Tab
                     heading={
                         <TabHeading>
                             <Icon name="ios-settings" />
                         </TabHeading>
                     }
-                />
+                />*/}
             </Tabs>
         );
     }
